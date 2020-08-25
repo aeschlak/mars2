@@ -1,3 +1,5 @@
 Spaceship is fueled and we are ready to blast off to mars
 We are docked in space stations, waiting for sling shot to mars
 We are approaching mars, ready to land
+We have landed successfuly on mars, it is strangely orange
+
